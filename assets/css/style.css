@@ -62,9 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*above done*/ 
 
-.float-left { /* keeps image to the right in article*/
+.float-left { /* in article keeps image to the right */
     float: left;
     margin-right: 25px;
 }
